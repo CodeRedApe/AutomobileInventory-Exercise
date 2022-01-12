@@ -1,0 +1,7 @@
+Vehicle 1:
+Vin: 333
+Year: 2014
+Make: Toyota
+Model: Tundra
+Odometer: 100000
+Color: Silver
